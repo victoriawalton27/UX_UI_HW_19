@@ -1,0 +1,48 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100px;
+    color: black;
+  }
+
+  .navbar-brand img {
+    width: 100%;
+    max-width: 100px;
+  }
+
+  .navbar.navbar-footer {
+    width: 100%;
+    color: black;
+  }
+
+  .heroimg .content img {
+    width: 400px
+  }
+
+  .card {
+    width: 300px ;
+    background: white;
+    border-color: white;
+  }
+
+  .card-group img {
+    width: 350px;
+    background: white;
+    border-color: white;
+
+
+  }
+
+  #worktitle {
+    font-family: 'poppins', sans-serif;
+    font-weight: 5px;
+  }
+
+  
+  
+
+  
+  
+  /* Grid CSS */
+
+ 
+  
